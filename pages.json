@@ -1,0 +1,27 @@
+{
+  "progressBarPayload": "automatic",
+  "pages": [
+    {
+      "title": "Welcome to your new Mac!",
+      "body": "The Trenton Public Schools Technology Department has been hard at work over the last few months preparing a new and more improved Mac experience for staff. We are proud to show off what we have been working on and are excited to see what you think.",
+      "topIcon": "https://usw2.ics.services.jamfcloud.com/icon/hash_799c543a571f95ba166e1f7410b8205dbf2c2891776020a68fdc7968fa8f578a"
+    },
+    {
+      "title": "Staff MacBook/iPad Loan Agreement",
+      "body": "Please ensure that you are familiar with the Trenton Public Schools agreement: https://tinyurl.com/TPSStaffAUP25",
+      "topIcon": "https://usw2.ics.services.jamfcloud.com/icon/hash_799c543a571f95ba166e1f7410b8205dbf2c2891776020a68fdc7968fa8f578a",
+      "accessoryViews": [
+        [
+          {
+            "type": "image",
+            "payload": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zalizn_3_%28cropped%29.jpg"
+          },
+          {
+            "type": "image",
+            "payload": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Zalizn_3_%28cropped%29.jpg"
+          }
+        ]
+      ]
+    }
+  ]
+}
